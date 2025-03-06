@@ -1,0 +1,586 @@
+
+    <div class="player">
+        <a href="https://www.mlb.com/player/607455">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/607455/headshot/silo/current" alt="Anthony Banda">
+        </a>
+        <p class="player">Anthony Banda</p>
+        <p class="playerDetail">
+            <span class="pno">43</span>
+            <span class="pnoDetail">L/L</span>
+            <span class="pnoDetail">6' 2"</span>
+            <span class="pnoDetail">221</span>
+            <br>
+            08/10/1993
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/676508">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/676508/headshot/silo/current" alt="Ben Casparius">
+        </a>
+        <p class="player">Ben Casparius</p>
+        <p class="playerDetail">
+            <span class="pno">78</span>
+            <span class="pnoDetail">R/R</span>
+            <span class="pnoDetail">6' 2"</span>
+            <span class="pnoDetail">215</span>
+            <br>
+            02/11/1999
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/676263">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/676263/headshot/silo/current" alt="Jack Dreyer">
+        </a>
+        <p class="player">Jack Dreyer</p>
+        <p class="playerDetail">
+            <span class="pno">86</span>
+            <span class="pnoDetail">R/L</span>
+            <span class="pnoDetail">6' 2"</span>
+            <span class="pnoDetail">205</span>
+            <br>
+            02/27/1999
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/607192">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/607192/headshot/silo/current" alt="Tyler Glasnow">
+        </a>
+        <p class="player">Tyler Glasnow</p>
+        <p class="playerDetail">
+            <span class="pno">31</span>
+            <span class="pnoDetail">L/R</span>
+            <span class="pnoDetail">6' 8"</span>
+            <span class="pnoDetail">225</span>
+            <br>
+            08/23/1993
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/664062">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/664062/headshot/silo/current" alt="Tony Gonsolin">
+        </a>
+        <p class="player">Tony Gonsolin</p>
+        <p class="playerDetail">
+            <span class="pno">26</span>
+            <span class="pnoDetail">R/R</span>
+            <span class="pnoDetail">6' 3"</span>
+            <span class="pnoDetail">205</span>
+            <br>
+            05/14/1994
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/660813">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/660813/headshot/silo/current" alt="Brusdar Graterol">
+        </a>
+        <p class="player">Brusdar Graterol</p>
+        <p class="playerDetail">
+            <span class="pno">48</span>
+            <span class="pnoDetail">R/R</span>
+            <span class="pnoDetail">6' 1"</span>
+            <span class="pnoDetail">265</span>
+            <br>
+            08/26/1998
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/675627">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/675627/headshot/silo/current" alt="Michael Grove">
+        </a>
+        <p class="player">Michael Grove</p>
+        <p class="playerDetail">
+            <span class="pno">29</span>
+            <span class="pnoDetail">R/R</span>
+            <span class="pnoDetail">6' 3"</span>
+            <span class="pnoDetail">200</span>
+            <br>
+            12/18/1996
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/683618">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/683618/headshot/silo/current" alt="Edgardo Henriquez">
+        </a>
+        <p class="player">Edgardo Henriquez</p>
+        <p class="playerDetail">
+            <span class="pno">60</span>
+            <span class="pnoDetail">R/R</span>
+            <span class="pnoDetail">6' 4"</span>
+            <span class="pnoDetail">200</span>
+            <br>
+            06/24/2002
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/669165">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/669165/headshot/silo/current" alt="Kyle Hurt">
+        </a>
+        <p class="player">Kyle Hurt</p>
+        <p class="playerDetail">
+            <span class="pno">63</span>
+            <span class="pnoDetail">R/R</span>
+            <span class="pnoDetail">6' 3"</span>
+            <span class="pnoDetail">240</span>
+            <br>
+            05/30/1998
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/477132">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/477132/headshot/silo/current" alt="Clayton Kershaw">
+        </a>
+        <p class="player">Clayton Kershaw</p>
+        <p class="playerDetail">
+            <span class="pno">22</span>
+            <span class="pnoDetail">L/L</span>
+            <span class="pnoDetail">6' 4"</span>
+            <span class="pnoDetail">225</span>
+            <br>
+            03/19/1988
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/689017">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/689017/headshot/silo/current" alt="Landon Knack">
+        </a>
+        <p class="player">Landon Knack</p>
+        <p class="playerDetail">
+            <span class="pno">96</span>
+            <span class="pnoDetail">L/R</span>
+            <span class="pnoDetail">6' 2"</span>
+            <span class="pnoDetail">220</span>
+            <br>
+            07/15/1997
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/656629">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/656629/headshot/silo/current" alt="Michael Kopech">
+        </a>
+        <p class="player">Michael Kopech</p>
+        <p class="playerDetail">
+            <span class="pno">45</span>
+            <span class="pnoDetail">R/R</span>
+            <span class="pnoDetail">6' 3"</span>
+            <span class="pnoDetail">220</span>
+            <br>
+            04/30/1996
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/669160">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/669160/headshot/silo/current" alt="Dustin May">
+        </a>
+        <p class="player">Dustin May</p>
+        <p class="playerDetail">
+            <span class="pno">85</span>
+            <span class="pnoDetail">R/R</span>
+            <span class="pnoDetail">6' 6"</span>
+            <span class="pnoDetail">180</span>
+            <br>
+            09/06/1997
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/676272">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/676272/headshot/silo/current" alt="Bobby Miller">
+        </a>
+        <p class="player">Bobby Miller</p>
+        <p class="playerDetail">
+            <span class="pno">28</span>
+            <span class="pnoDetail">L/R</span>
+            <span class="pnoDetail">6' 5"</span>
+            <span class="pnoDetail">220</span>
+            <br>
+            04/05/1999
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/623465">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/623465/headshot/silo/current" alt="Evan Phillips">
+        </a>
+        <p class="player">Evan Phillips</p>
+        <p class="playerDetail">
+            <span class="pno">59</span>
+            <span class="pnoDetail">R/R</span>
+            <span class="pnoDetail">6' 2"</span>
+            <span class="pnoDetail">215</span>
+            <br>
+            09/11/1994
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/656945">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/656945/headshot/silo/current" alt="Tanner Scott">
+        </a>
+        <p class="player">Tanner Scott</p>
+        <p class="playerDetail">
+            <span class="pno">66</span>
+            <span class="pnoDetail">R/L</span>
+            <span class="pnoDetail">6' 0"</span>
+            <span class="pnoDetail">235</span>
+            <br>
+            07/22/1994
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/686218">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/686218/headshot/silo/current" alt="Emmet Sheehan">
+        </a>
+        <p class="player">Emmet Sheehan</p>
+        <p class="playerDetail">
+            <span class="pno">80</span>
+            <span class="pnoDetail">R/R</span>
+            <span class="pnoDetail">6' 5"</span>
+            <span class="pnoDetail">220</span>
+            <br>
+            11/15/1999
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/605483">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/605483/headshot/silo/current" alt="Blake Snell">
+        </a>
+        <p class="player">Blake Snell</p>
+        <p class="playerDetail">
+            <span class="pno">7</span>
+            <span class="pnoDetail">L/L</span>
+            <span class="pnoDetail">6' 4"</span>
+            <span class="pnoDetail">225</span>
+            <br>
+            12/04/1992
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/595014">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/595014/headshot/silo/current" alt="Blake Treinen">
+        </a>
+        <p class="player">Blake Treinen</p>
+        <p class="playerDetail">
+            <span class="pno">49</span>
+            <span class="pnoDetail">R/R</span>
+            <span class="pnoDetail">6' 5"</span>
+            <span class="pnoDetail">225</span>
+            <br>
+            06/30/1988
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/681911">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/681911/headshot/silo/current" alt="Alex Vesia">
+        </a>
+        <p class="player">Alex Vesia</p>
+        <p class="playerDetail">
+            <span class="pno">51</span>
+            <span class="pnoDetail">L/L</span>
+            <span class="pnoDetail">6' 1"</span>
+            <span class="pnoDetail">209</span>
+            <br>
+            04/11/1996
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/680736">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/680736/headshot/silo/current" alt="Justin Wrobleski">
+        </a>
+        <p class="player">Justin Wrobleski</p>
+        <p class="playerDetail">
+            <span class="pno">70</span>
+            <span class="pnoDetail">L/L</span>
+            <span class="pnoDetail">6' 1"</span>
+            <span class="pnoDetail">194</span>
+            <br>
+            07/14/2000
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/808967">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/808967/headshot/silo/current" alt="Yoshinobu Yamamoto">
+        </a>
+        <p class="player">Yoshinobu Yamamoto</p>
+        <p class="playerDetail">
+            <span class="pno">18</span>
+            <span class="pnoDetail">R/R</span>
+            <span class="pnoDetail">5' 10"</span>
+            <span class="pnoDetail">176</span>
+            <br>
+            08/17/1998
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/489446">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/489446/headshot/silo/current" alt="Kirby Yates">
+        </a>
+        <p class="player">Kirby Yates</p>
+        <p class="playerDetail">
+            <span class="pno">38</span>
+            <span class="pnoDetail">L/R</span>
+            <span class="pnoDetail">5' 10"</span>
+            <span class="pnoDetail">205</span>
+            <br>
+            03/25/1987
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/660271">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/660271/headshot/silo/current" alt="Shohei Ohtani">
+        </a>
+        <p class="player">Shohei Ohtani</p>
+        <p class="playerDetail">
+            <span class="pno">17</span>
+            <span class="pnoDetail">L/R</span>
+            <span class="pnoDetail">6' 4"</span>
+            <span class="pnoDetail">210</span>
+            <br>
+            07/05/1994
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/605131">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/605131/headshot/silo/current" alt="Austin Barnes">
+        </a>
+        <p class="player">Austin Barnes</p>
+        <p class="playerDetail">
+            <span class="pno">15</span>
+            <span class="pnoDetail">R/R</span>
+            <span class="pnoDetail">5' 10"</span>
+            <span class="pnoDetail">187</span>
+            <br>
+            12/28/1989
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/676439">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/676439/headshot/silo/current" alt="Hunter Feduccia">
+        </a>
+        <p class="player">Hunter Feduccia</p>
+        <p class="playerDetail">
+            <span class="pno">67</span>
+            <span class="pnoDetail">L/R</span>
+            <span class="pnoDetail">6' 1"</span>
+            <span class="pnoDetail">215</span>
+            <br>
+            06/05/1997
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/669257">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/669257/headshot/silo/current" alt="Will Smith">
+        </a>
+        <p class="player">Will Smith</p>
+        <p class="playerDetail">
+            <span class="pno">16</span>
+            <span class="pnoDetail">R/R</span>
+            <span class="pnoDetail">5' 10"</span>
+            <span class="pnoDetail">195</span>
+            <br>
+            03/28/1995
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/605141">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/605141/headshot/silo/current" alt="Mookie Betts">
+        </a>
+        <p class="player">Mookie Betts</p>
+        <p class="playerDetail">
+            <span class="pno">50</span>
+            <span class="pnoDetail">R/R</span>
+            <span class="pnoDetail">5' 9"</span>
+            <span class="pnoDetail">180</span>
+            <br>
+            10/07/1992
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/518692">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/518692/headshot/silo/current" alt="Freddie Freeman">
+        </a>
+        <p class="player">Freddie Freeman</p>
+        <p class="playerDetail">
+            <span class="pno">5</span>
+            <span class="pnoDetail">L/R</span>
+            <span class="pnoDetail">6' 5"</span>
+            <span class="pnoDetail">220</span>
+            <br>
+            09/12/1989
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/571771">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/571771/headshot/silo/current" alt="Enrique Hernández">
+        </a>
+        <p class="player">Enrique Hernández</p>
+        <p class="playerDetail">
+            <span class="pno">8</span>
+            <span class="pnoDetail">R/R</span>
+            <span class="pnoDetail">5' 11"</span>
+            <span class="pnoDetail">195</span>
+            <br>
+            08/24/1991
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/808975">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/808975/headshot/silo/current" alt="Hyeseong Kim">
+        </a>
+        <p class="player">Hyeseong Kim</p>
+        <p class="playerDetail">
+            <span class="pno">6</span>
+            <span class="pnoDetail">L/R</span>
+            <span class="pnoDetail">5' 7"</span>
+            <span class="pnoDetail">175</span>
+            <br>
+            01/27/1999
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/571970">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/571970/headshot/silo/current" alt="Max Muncy">
+        </a>
+        <p class="player">Max Muncy</p>
+        <p class="playerDetail">
+            <span class="pno">13</span>
+            <span class="pnoDetail">L/R</span>
+            <span class="pnoDetail">6' 0"</span>
+            <span class="pnoDetail">215</span>
+            <br>
+            08/25/1990
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/500743">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/500743/headshot/silo/current" alt="Miguel Rojas">
+        </a>
+        <p class="player">Miguel Rojas</p>
+        <p class="playerDetail">
+            <span class="pno">72</span>
+            <span class="pnoDetail">R/R</span>
+            <span class="pnoDetail">6' 0"</span>
+            <span class="pnoDetail">188</span>
+            <br>
+            02/24/1989
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/624424">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/624424/headshot/silo/current" alt="Michael Conforto">
+        </a>
+        <p class="player">Michael Conforto</p>
+        <p class="playerDetail">
+            <span class="pno">23</span>
+            <span class="pnoDetail">L/R</span>
+            <span class="pnoDetail">6' 1"</span>
+            <span class="pnoDetail">215</span>
+            <br>
+            03/01/1993
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/669242">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/669242/headshot/silo/current" alt="Tommy Edman">
+        </a>
+        <p class="player">Tommy Edman</p>
+        <p class="playerDetail">
+            <span class="pno">25</span>
+            <span class="pnoDetail">S/R</span>
+            <span class="pnoDetail">5' 10"</span>
+            <span class="pnoDetail">193</span>
+            <br>
+            05/09/1995
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/606192">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/606192/headshot/silo/current" alt="Teoscar Hernández">
+        </a>
+        <p class="player">Teoscar Hernández</p>
+        <p class="playerDetail">
+            <span class="pno">37</span>
+            <span class="pnoDetail">R/R</span>
+            <span class="pnoDetail">6' 2"</span>
+            <span class="pnoDetail">215</span>
+            <br>
+            10/15/1992
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/681546">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/681546/headshot/silo/current" alt="James Outman">
+        </a>
+        <p class="player">James Outman</p>
+        <p class="playerDetail">
+            <span class="pno">33</span>
+            <span class="pnoDetail">L/R</span>
+            <span class="pnoDetail">6' 2"</span>
+            <span class="pnoDetail">215</span>
+            <br>
+            05/14/1997
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/681624">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/681624/headshot/silo/current" alt="Andy Pages">
+        </a>
+        <p class="player">Andy Pages</p>
+        <p class="playerDetail">
+            <span class="pno">44</span>
+            <span class="pnoDetail">R/R</span>
+            <span class="pnoDetail">6' 0"</span>
+            <span class="pnoDetail">212</span>
+            <br>
+            12/08/2000
+        </p>
+    </div>
+    
+    <div class="player">
+        <a href="https://www.mlb.com/player/621035">
+            <img class="playerImg" src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/621035/headshot/silo/current" alt="Chris Taylor">
+        </a>
+        <p class="player">Chris Taylor</p>
+        <p class="playerDetail">
+            <span class="pno">3</span>
+            <span class="pnoDetail">R/R</span>
+            <span class="pnoDetail">6' 1"</span>
+            <span class="pnoDetail">196</span>
+            <br>
+            08/29/1990
+        </p>
+    </div>
+    
